@@ -19,15 +19,12 @@ This repository serves as my organized workspace for all course requirements, in
 
 📂 Repository Structure
 
-'''text
 cloud-computing-course/
 ├── activities/
 ├── projects/
 ├── notes/
 ├── reflections/
 └── README.md
-'''
-
 
 📖 Key Concepts Covered
 - Cloud Computing Basics
