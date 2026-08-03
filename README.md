@@ -16,15 +16,17 @@ This repository serves as my organized workspace for all course requirements, in
 - Instructor:TORRES JENKIELYN CORTEZ
 - School Year: 2026-2027
 
-
+</> Markdown
 📂 Repository Structure
 
+```text
 cloud-computing-course/
 ├── activities/
 ├── projects/
 ├── notes/
 ├── reflections/
 └── README.md
+```
 
 📖 Key Concepts Covered
 - Cloud Computing Basics
